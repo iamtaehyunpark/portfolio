@@ -1,0 +1,13 @@
+public class Practice {
+
+    public static int add2 (int x,int y) {
+	return x + y;
+    }
+    
+    public static void main (String[] args){
+	
+	int sum = add2 (34, 32);
+
+	System.out.println(sum);
+    }
+}

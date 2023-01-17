@@ -1,0 +1,51 @@
+100
+Camden A. Featherstone
+346 North 2353 West
+Wayne
+Virginia
+06188
+208 877 4461
+Philosophy
+0.57
+Yes
+101
+Ansari L. Elliott
+2308 Hubbard
+Los Angeles
+Montana
+07887
+137 232 0088
+Applied Math
+3.74
+Yes
+102
+Pari T. Campbell
+161 East 2012 South
+Bakersville
+Arkansas
+24707
+170 745 4015
+Medicine
+3.51
+No
+103
+Paine H. Cody
+343 East 7308 North
+Los Angeles
+Wisconsin
+27355
+857 063 3401
+Biochemistry
+3.43
+No
+104
+Shae V. Gross
+564 South 1885 North
+Baker
+Arkansas
+08344
+645 482 4418
+Computer Science
+3.3
+No
+-1

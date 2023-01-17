@@ -1,0 +1,301 @@
+100
+Severn E. Kim
+356 West 4174 South
+San Diego
+New York
+65553
+245 065 8460
+Behavior Science
+2.03
+Yes
+101
+Scott U. Douville
+8335 Buffon
+Bahgdad
+Oklahoma
+40286
+137 055 2723
+Computer Science
+2.91
+No
+102
+Ravi M. Fucaloro
+073 South 0153 West
+Victoria
+Maryland
+51674
+334 656 5360
+Marketing
+0.13
+No
+103
+Ali N. Huang
+600 West 5218 South
+Jackson
+Iowa
+46400
+862 368 6326
+Social Work
+0.95
+Yes
+104
+Nellie I. Aerus
+225 South 8150 West
+Stockton
+Nevada
+85386
+774 204 6088
+Pre-Med
+0.99
+No
+105
+Adair S. Chorba
+177 South 6280 East
+Chicago
+Minnesota
+16038
+464 652 2272
+Art
+1.26
+Yes
+106
+Harvae G. Calichman
+5234 Young Oak
+Vancouver
+Wyoming
+37470
+558 146 7872
+History
+0.6
+No
+107
+Rune K. Farell
+608 South 2714 East
+Seoul
+Kentucky
+32687
+817 471 3475
+Undeclared
+1.72
+No
+108
+Manas U. Appelbaum
+0652 Monge Dr.
+San Diego
+Tennessee
+48571
+107 636 8251
+Music
+3.09
+No
+109
+Anthony O. Affin
+332 West 7341 East
+Victoria
+Tennessee
+53567
+431 737 8418
+Math
+0.68
+Yes
+110
+Kinnard H. Faggen
+510 North 6816 South
+Jolly
+Wyoming
+16437
+036 876 1010
+Computer Science
+3.88
+Yes
+111
+Sabian W. Arndt
+021 South 8234 North
+Sacramento
+North Dakota
+76752
+533 568 3721
+Music
+2.63
+No
+112
+Robert U. Egg
+788 West 4523 North
+Baker
+Arizona
+52185
+754 058 6346
+Management
+1.77
+No
+113
+Semyon M. Kennedy
+411 East 8564 East
+Seattle
+Delaware
+18812
+216 207 7048
+Education
+1.53
+Yes
+114
+Nadir D. Myer
+468 East 1548 West
+Seoul
+Iowa
+68888
+181 445 7444
+Applied Math
+3.71
+Yes
+115
+Sebastian Y. Eldregde
+7144 Harvard
+Torry
+Texas
+50781
+008 653 1144
+Theater
+2.61
+Yes
+116
+Debbie O. Douville
+316 East 2625 North
+Baker
+Ohio
+74214
+532 833 0674
+Education
+2.69
+No
+117
+Ian Y. Appel
+815 North 0640 East
+Riverside
+Ohio
+68017
+006 162 1182
+Special Education
+0.19
+Yes
+118
+Ammon A. Busch
+155 North 2133 North
+Garrison
+Georgia
+81278
+444 730 1063
+International Studies
+3.99
+Yes
+119
+Asher K. Egg
+571 North 3074 South
+Chicago
+Indiana
+11648
+374 565 2342
+Social Work
+3.09
+No
+120
+Willard H. Fucaloro
+332 South 2728 North
+Richfield
+Wyoming
+85387
+727 206 7264
+Architecture
+0.9
+No
+121
+Ali E. Flatt
+1674 Interesting One
+Baker
+Hawaii
+08207
+600 862 4161
+Math
+1.98
+No
+122
+Ryder J. Elliott
+525 East 6376 East
+Glendale
+New Hampshire
+12787
+636 128 7565
+Pharmacy
+2.71
+Yes
+123
+Jesse O. Adamson
+445 South 8671 East
+Seattle
+South Dakota
+12081
+767 813 0027
+Computer Science
+0.4
+Yes
+124
+Malin R. Chase
+558 West 3306 North
+Portland
+Connecticut
+88200
+227 010 7578
+Accounting
+2.62
+Yes
+125
+Tyson G. Biltz
+358 West 7515 East
+Monroe
+Missouri
+86117
+002 310 4480
+Mining Engineering
+2.83
+Yes
+126
+Niran T. Hess
+2864 Abel Dr.
+Wonderful
+New Hampshire
+44280
+874 110 8558
+Pre-Med
+2.06
+Yes
+127
+Jervase H. Adamson
+774 East 0486 South
+Wayne
+Maryland
+56257
+478 866 2705
+Behavior Science
+2.56
+Yes
+128
+Cheryl H. Eby
+520 East 7767 East
+Garrison
+Kansas
+71046
+451 843 7258
+Medicine
+1.18
+Yes
+129
+Ian F. Goodrich
+867 North 6388 West
+Sherman
+Minnesota
+27170
+605 333 0225
+Mechanical Engineering
+1.26
+No
+-1

@@ -1,0 +1,201 @@
+100
+Rafferty W. Bradley
+1251 Monge Dr.
+Riverside
+Delaware
+53604
+605 467 3102
+Communication
+3.5
+Yes
+101
+Narayn J. Chang
+467 North 0608 North
+Bountiful
+South Dakota
+62411
+362 430 6443
+Math
+2.4
+Yes
+102
+Daniel X. Adamson
+614 South 0321 West
+Seattle
+Virginia
+70188
+872 174 1288
+Business
+3.33
+No
+103
+Ainsley V. Ascher
+856 North 1011 North
+Victoria
+Minnesota
+23575
+475 236 2202
+Undeclared
+0.97
+Yes
+104
+Sandor L. Chorba
+374 South 5046 North
+Springville
+Wyoming
+66700
+662 147 3461
+Computer Science
+3.79
+Yes
+105
+Vaughn B. Aksoy
+005 South 4411 West
+Los Angeles
+Idaho
+22184
+288 527 5380
+Linguistics
+0.94
+No
+106
+Majorie E. Dershem
+573 South 3431 West
+Moab
+Missouri
+18056
+802 636 0854
+Theater
+2.73
+Yes
+107
+Darien W. Bilger
+677 South 4514 East
+Dayton
+California
+35335
+412 031 2158
+Physics
+2.57
+No
+108
+Carrik N. O'malley
+414 North 6433 West
+Boise
+Virginia
+71581
+710 241 4681
+Chemical Engineering
+1.57
+Yes
+109
+Steede L. Goeree
+275 North 3556 East
+Jolly
+Alabama
+37666
+472 235 1636
+Aerospace Studies
+2.22
+Yes
+110
+Jett M. Blomberg
+1300 Main St.
+Jackson
+Nebraska
+15373
+201 166 7258
+Communication
+1.59
+No
+111
+Yannis R. Kerry
+238 West 3857 North
+Tacoma
+Montana
+05561
+580 731 8882
+Mechanical Engineering
+3.94
+Yes
+112
+Quillan D. Miyasaki
+564 East 8286 North
+Monroe
+Alabama
+80260
+673 334 2747
+Education
+1.07
+Yes
+113
+Carey N. Eby
+838 North 1256 South
+Seattle
+Iowa
+14410
+483 747 4584
+Bioengineering
+1.07
+No
+114
+Cailean C. Aerus
+4432 Herbert
+Seoul
+Mississippi
+40077
+856 560 3735
+Education
+3.71
+Yes
+115
+Venn G. Bishop
+063 East 3884 South
+Sandy
+South Dakota
+33484
+508 747 3032
+Economics
+0.76
+Yes
+116
+Craig H. Davis
+700 South 6060 North
+Fresno
+Vermont
+10740
+138 781 1760
+Management
+0.95
+Yes
+117
+Nur K. Helland
+4420 Good One
+Richfield
+Florida
+76637
+825 606 7604
+Medicine
+0.85
+No
+118
+Pascal S. Busch
+2133 Broglie Blvd.
+Seattle
+Minnesota
+17746
+270 618 4128
+Special Education
+2.93
+Yes
+119
+Swayne T. Bishop
+555 East 8087 East
+Philladelphia
+Massachusetts
+17682
+687 813 7033
+Civil Engineering
+3.48
+No
+-1
