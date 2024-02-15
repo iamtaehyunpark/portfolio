@@ -1,0 +1,145 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 53}, {128, 44}}",
+        "class" : "DatePicker",
+        "attributes" : {
+          "name" : "datep",
+          "frame" : "{{0, 132}, {320, 216}}",
+          "action" : "typed",
+          "class" : "DatePicker",
+          "mode" : 1,
+          "uuid" : "C6613343-D29E-4F5D-B2F2-60F6E9D5D713"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 217}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "outputdate",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(0.963768,1.000000,0.891304,1.000000)",
+          "uuid" : "872EDD48-24CC-4686-B6D8-1557DFB4E83B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 186}, {83, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "ex1",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "F626813E-73F9-423E-8359-95B151F43BCC",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "남은 기한:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 257}, {83, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "59B6B327-F36F-4445-B71B-02A4BAE4B69C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "퍼센트:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 287}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(0.963768,1.000000,0.891304,1.000000)",
+          "uuid" : "872EDD48-24CC-4686-B6D8-1557DFB4E83B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "0%",
+          "name" : "outputpercent",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 105}, {262, 82}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "872EDD48-24CC-4686-B6D8-1557DFB4E83B",
+          "corner_radius" : 9,
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(0.963768,1.000000,0.891304,1.000000)",
+          "border_width" : 1,
+          "border_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "alignment" : "left",
+          "text" : "                  전역일 계산기",
+          "font_name" : "<System>",
+          "class" : "Label",
+          "name" : "enddate",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 327}, {200, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "uuid" : "208239BC-A90B-425B-A954-323D5C2081F9",
+          "frame" : "{{60, 223}, {200, 34}}",
+          "value" : 0,
+          "class" : "Slider",
+          "name" : "slider1",
+          "flex" : "W"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "mil",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
